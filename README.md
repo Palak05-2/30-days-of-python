@@ -17,7 +17,7 @@ Each day contains:
 
 ## Progress
 
-* [ ] Day 01 — Print Function
+* [*] Day 01 — Print Function
 * [ ] Day 02 — Data Types
 * [ ] Day 03 — Comments
 * [ ] Day 04 — Variables
